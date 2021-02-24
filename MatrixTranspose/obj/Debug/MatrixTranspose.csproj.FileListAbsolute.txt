@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\bin\Debug\MatrixTranspose.exe.config
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\bin\Debug\MatrixTranspose.exe
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\bin\Debug\MatrixTranspose.pdb
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\obj\Debug\MatrixTranspose.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\obj\Debug\MatrixTranspose.exe
+c:\users\admin\documents\visual studio 2015\Projects\MatrixTranspose\MatrixTranspose\obj\Debug\MatrixTranspose.pdb
